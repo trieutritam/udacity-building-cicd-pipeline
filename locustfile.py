@@ -10,7 +10,7 @@ class DemoLoadTest(HttpUser):
     def test_index(self):
         self.client.get("/")
 
-    @task(3)
+    @task
     def view_predict(self):
         self.client.post("/predict", json={
           "CHAS":{"0":0},"RM":{"0":6.575},"TAX":{"0":296.0},
