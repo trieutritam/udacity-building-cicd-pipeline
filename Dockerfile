@@ -13,6 +13,8 @@ RUN pip install --upgrade pip &&\
 
 # Expose port 80
 EXPOSE 80
+# Expose port 8089 for locust
+EXPOSE 8089
 
 # Run app.py at container launch
 #CMD ["python", "app.py"]
