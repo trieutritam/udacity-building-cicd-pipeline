@@ -1,6 +1,4 @@
-[![Build Status](https://dev.azure.com/odluser258964/flask-ml-deploy/_apis/build/status%2Ftrieutritam.udacity-building-cicd-pipeline?branchName=main)](https://dev.azure.com/odluser258964/flask-ml-deploy/_build/latest?definitionId=1&branchName=main)
-
-# Overview
+[![Build Status](https://dev.azure.com/udacitydevops/flask-ml-deploy/_apis/build/status%2Ftrieutritam.udacity-building-cicd-pipeline?branchName=main)](https://dev.azure.com/udacitydevops/flask-ml-deploy/_build/latest?definitionId=2&branchName=main)# Overview
 
 In this project, you will build a Github repository from scratch and create a scaffolding that will assist you in performing both Continuous Integration and Continuous Delivery. You'll use Github Actions along with a Makefile, requirements.txt and application code to perform an initial lint, test, and install cycle. Next, you'll integrate this project with Azure Pipelines to enable Continuous Delivery to Azure App Service.
 
