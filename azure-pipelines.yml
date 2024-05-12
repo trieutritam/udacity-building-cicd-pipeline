@@ -8,7 +8,7 @@ pool: myAgentPool
 
 variables:
   azureServiceConnectionId: 'udacity-service-connection'
-  webAppName: 'flask-ml-service-258964'
+  webAppName: 'flask-ml-trieutritam'
   environmentName: 'flask-ml-service'
 
   # Project root folder. Point to the folder containing manage.py file.
